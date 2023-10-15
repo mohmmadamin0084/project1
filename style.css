@@ -17,7 +17,7 @@ body {
     margin: 50px auto;
 }
 
-.Search,
+#GetCityName,
 .Submit,.WeatherStatus,.Tempercher,.City{
     display: flex;
     justify-content: center;
